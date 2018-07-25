@@ -5,8 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/Albay.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 16.525291,
-    "lng": 120.327695
+    "lat": 13.177483,
+    "lng": 123.528007
   },
   {
     "id": 148,
@@ -14,8 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/Baler.jpg",
     "price": 200,
     "priceCurrency": "PESO",
-    "lat": 36.299546,
-    "lng": -95.307934
+    "lat": 15.733607,
+    "lng": 121.571250
   },
   {
     "id": 201,
@@ -23,8 +23,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/baguio.jpg",
     "price": 150,
     "priceCurrency": "PESO",
-    "lat": 16.568696,
-    "lng": 120.322004
+    "lat": 16.402333,
+    "lng": 120.596007
   },
   {
     "id": 205,
@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/batanes.jpg",
     "price": 115,
     "priceCurrency": "PESO",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 20.448507,
+    "lng": 121.970813
   },
   {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/batangas.jpg",
     "price": 135,
     "priceCurrency": "PESO",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 13.945034,
+    "lng": 121.131201
   },
   {
     "id": 211,
@@ -50,8 +50,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/bicol.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 13.420988,
+    "lng": 123.413674
   },
    {
     "id": 212,
@@ -59,8 +59,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/boracay.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 11.967375,
+    "lng": 121.924815
   },
    {
     "id": 213,
@@ -68,8 +68,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/camsur.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 13.525020,
+    "lng": 123.348615
   },
    {
     "id": 214,
@@ -77,8 +77,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/pagudpud.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 18.587468,
+    "lng": 120.822083
   },
    {
     "id": 215,
@@ -86,8 +86,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/romblon.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 12.577802,
+    "lng": 122.269146
   },
    {
     "id": 216,
@@ -95,8 +95,8 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/samar.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 12.244553,
+    "lng": 125.038816
   },
    {
     "id": 217,
@@ -104,7 +104,7 @@
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/vigan.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 17.570490,
+    "lng": 120.387330
   }
 ]
