@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Albay",
+    "name": "Central West, Bauang La Union",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/Albay.jpg",
-    "price": 756,
+    "price": 0,
     "priceCurrency": "km",
-    "lat": 13.177483,
-    "lng": 123.528007
+    "lat": 16.525291,
+    "lng": 120.327695
   },
   {
     "id": 148,
