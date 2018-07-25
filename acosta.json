@@ -4,7 +4,7 @@
     "name": "Albay",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/Albay.jpg",
     "price": 756,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 13.177483,
     "lng": 123.528007
   },
@@ -13,7 +13,7 @@
     "name": "Baler",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/Baler.jpg",
     "price": 249,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 15.733607,
     "lng": 121.571250
   },
@@ -22,7 +22,7 @@
     "name": "Baguio",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/baguio.jpg",
     "price": 48.4,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 16.402333,
     "lng": 120.596007
   },
@@ -31,7 +31,7 @@
     "name": "Batanes",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/batanes.jpg",
     "price": 265,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 20.448507,
     "lng": 121.970813
   },
@@ -40,7 +40,7 @@
     "name": "Batangas",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/batangas.jpg",
     "price": 366,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 13.945034,
     "lng": 121.131201
   },
@@ -49,7 +49,7 @@
     "name": "Bicol",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/bicol.jpg",
     "price": 706,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 13.420988,
     "lng": 123.413674
   },
@@ -58,7 +58,7 @@
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/boracay.jpg",
     "price": 702,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815
   },
@@ -67,7 +67,7 @@
     "name": "Camsur",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/camsur.jpg",
     "price": 695,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 13.525020,
     "lng": 123.348615
   },
@@ -76,7 +76,7 @@
     "name": "Pagudpud",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/pagudpud.jpg",
     "price": 302,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 18.587468,
     "lng": 120.822083
   },
@@ -85,7 +85,7 @@
     "name": "Romblon",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/romblon.jpg",
     "price": 850,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 12.577802,
     "lng": 122.269146
   },
@@ -94,7 +94,7 @@
     "name": "Samar",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/samar.jpg",
     "price": 1094,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 12.244553,
     "lng": 125.038816
   },
@@ -103,7 +103,7 @@
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/neilacosta/NeilAcostaa/master/vigan.jpg",
     "price": 147,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 17.570490,
     "lng": 120.387330
   }
